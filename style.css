@@ -1,0 +1,158 @@
+.navigacija {
+	background-color: #242424;
+	border-color: #ccc;
+}
+
+.navbar-default {
+	background-color: #242424;
+	border-color: #ccc;
+}
+
+.title-name {
+	color: rgb(238,191,51);
+}
+
+
+
+
+
+
+
+                                                 /*SIDEBAR*/
+
+
+.title-side-bar {
+	color: #aaa;
+}
+
+                                                 /*SHOWBOXES*/
+
+
+
+.info-box-one {
+	background-color: #5DC4C0;
+	color: #fff;
+}
+
+.info-box-two {
+	background-color: #555555;
+	color: #fff;
+}
+
+.view-details {
+	color: rgb(238,191,51);
+	background-color: #242424;
+}
+
+
+.ex2:hover, .ex2:active {
+	background-color: rgb(238,191,51);
+    color: #242424;
+}
+
+.ex3 {
+	line-height: 50px;
+}
+
+/* unvisited link */
+.ex3:link {
+    background-color: rgb(238,191,51);
+    color: #242424;
+    line-height: 50px;
+}
+
+/* visited link */
+.ex3:visited {
+    background-color: rgb(238,191,51);
+    color: #242424;
+    line-height: 50px;
+}
+
+/* mouse over link */
+.ex3:hover {
+    background-color: rgb(238,191,51);
+    color: #242424;
+    line-height: 50px;
+}
+ 
+/* selected link */
+.ex3:active {
+    background-color: rgb(238,191,51);
+    color: #242424;
+    line-height: 50px;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color: rgb(238,191,51);
+    border-color: rgb(238,191,51);
+}
+vi
+.dropdown-menu>li>a:hover {
+    text-decoration: none;f
+    background-color: rgb(238,191,51);
+    color: #242424;
+}
+
+.panel-default>.panel-heading {
+	background-color: #242424;
+	color: rgb(238,191,51);
+}
+.navbar-top-links .dropdown-user {
+	background-color: #242424;
+}
+
+.btn-default {
+	background-color: rgb(238,191,51);
+    color: #242424;
+    border-color: #242424;
+}
+
+a {
+	color: rgb(238,191,51);
+}
+
+.pull-right>.dropdown-menu {
+	background-color: #242424;
+}
+
+.dropdown-menu>li>a {
+	color: rgb(238,191,51);
+}
+
+
+/*Tables*/
+
+
+.pagination>li>a {
+	background-color: #fff;
+	color: #242424;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus
+, .pagination>.active>a:hover, .pagination>.active>span,
+ .pagination>.active>span:focus, .pagination>.active>span:hover {
+	background-color: #242424;
+	color: #fff;
+}
+
+.navbar-top-links .dropdown-messages, .navbar-top-links .dropdown-tasks, .navbar-top-links .dropdown-alerts {
+	background-color: #242424;
+}
+
+.open>.dropdown-menu {
+	background-color: rgba(36,36,36,0.9);
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #242424;
+	border-color: rgb(238,191,51);
+}
+
+
+.btn-primary:hover {
+	color: #fff;
+	background-color: rgb(238,191,51);
+	border-color: #242424;
+}
+
